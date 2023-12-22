@@ -6,16 +6,16 @@ import ProgramCard from "@/components/ProgramCard";
 import Rest from "@/components/Rest";
 import TeamSlider from "@/components/TeamSlider";
 
-const teams = [
-    { name: 'Tech', slug: 'tech' },
-    { name: 'Core', slug: 'core' },
-    { name: 'Event Management', slug: 'event-management' },
-    { name: 'PR', slug: 'pr' },
-    { name: 'Sponsorship', slug: 'sponsorship' },
-    { name: 'Content', slug: 'content' },
-    { name: 'Logistics', slug: 'logistics' },
-    { name: 'Leads', slug: 'leads' },
-  ];
+// const teams = [
+//     { name: 'Tech', slug: 'tech' },
+//     { name: 'Core', slug: 'core' },
+//     { name: 'Event Management', slug: 'event-management' },
+//     { name: 'PR', slug: 'pr' },
+//     { name: 'Sponsorship', slug: 'sponsorship' },
+//     { name: 'Content', slug: 'content' },
+//     { name: 'Logistics', slug: 'logistics' },
+//     { name: 'Leads', slug: 'leads' },
+//   ];
 
 export default function Page (){
     return(<>
